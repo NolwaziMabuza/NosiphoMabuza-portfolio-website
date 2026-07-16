@@ -1,0 +1,29 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Grade A Media Booking Application preview</title>
+  <desc id="desc">Stylised mobile application mockup placeholder for the Grade A Media project.</desc>
+  <rect width="1200" height="760" rx="48" fill="#FFFFFF"/>
+  <rect x="50" y="50" width="1100" height="660" rx="34" fill="#FDF2F8" stroke="#F8C8DC" stroke-width="4"/>
+  <rect x="168" y="118" width="310" height="524" rx="52" fill="#2B2B2B"/>
+  <rect x="192" y="154" width="262" height="452" rx="32" fill="#FFF"/>
+  <rect x="228" y="197" width="190" height="38" rx="19" fill="#F8C8DC"/>
+  <rect x="228" y="266" width="190" height="82" rx="22" fill="#FDF2F8" stroke="#F8C8DC" stroke-width="3"/>
+  <rect x="228" y="371" width="190" height="82" rx="22" fill="#FDF2F8" stroke="#F8C8DC" stroke-width="3"/>
+  <rect x="228" y="476" width="190" height="82" rx="22" fill="#FDF2F8" stroke="#F8C8DC" stroke-width="3"/>
+  <circle cx="260" cy="308" r="17" fill="#D88CA6"/>
+  <circle cx="260" cy="413" r="17" fill="#C9A66B"/>
+  <circle cx="260" cy="518" r="17" fill="#D88CA6"/>
+  <rect x="292" y="296" width="96" height="14" rx="7" fill="#D88CA6" opacity="0.55"/>
+  <rect x="292" y="321" width="68" height="12" rx="6" fill="#EFC7D8"/>
+  <rect x="292" y="401" width="96" height="14" rx="7" fill="#D88CA6" opacity="0.55"/>
+  <rect x="292" y="426" width="68" height="12" rx="6" fill="#EFC7D8"/>
+  <rect x="292" y="506" width="96" height="14" rx="7" fill="#D88CA6" opacity="0.55"/>
+  <rect x="292" y="531" width="68" height="12" rx="6" fill="#EFC7D8"/>
+  <text x="565" y="246" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#2B2B2B">Grade A Media</text>
+  <text x="565" y="300" font-family="Arial, sans-serif" font-size="30" font-weight="600" fill="#A95270">Booking Application</text>
+  <rect x="565" y="352" width="398" height="22" rx="11" fill="#EFC7D8"/>
+  <rect x="565" y="392" width="308" height="22" rx="11" fill="#EFC7D8"/>
+  <rect x="565" y="470" width="144" height="54" rx="27" fill="#2B2B2B"/>
+  <text x="637" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">View case</text>
+  <circle cx="991" cy="174" r="92" fill="#F8C8DC" opacity="0.65"/>
+  <circle cx="1030" cy="588" r="74" fill="#C9A66B" opacity="0.2"/>
+</svg>

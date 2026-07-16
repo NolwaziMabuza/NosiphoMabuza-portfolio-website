@@ -1,0 +1,11 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Homepage screenshot placeholder</title>
+  <desc id="desc">Placeholder for a project homepage screenshot.</desc>
+  <rect width="900" height="620" rx="34" fill="#FFFFFF"/>
+  <rect x="42" y="42" width="816" height="536" rx="26" fill="#FDF2F8" stroke="#F8C8DC" stroke-width="3"/>
+  <rect x="78" y="80" width="744" height="52" rx="18" fill="#2B2B2B"/>
+  <rect x="78" y="178" width="354" height="250" rx="24" fill="#FFFFFF"/>
+  <rect x="468" y="178" width="160" height="250" rx="24" fill="#FFFFFF"/>
+  <rect x="662" y="178" width="160" height="250" rx="24" fill="#FFFFFF"/>
+  <text x="450" y="506" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="800" fill="#2B2B2B">Add homepage screenshot</text>
+</svg>

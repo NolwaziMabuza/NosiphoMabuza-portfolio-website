@@ -1,0 +1,12 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Admin screenshot placeholder</title>
+  <desc id="desc">Placeholder for an admin dashboard or CRUD screenshot.</desc>
+  <rect width="900" height="620" rx="34" fill="#FFFFFF"/>
+  <rect x="42" y="42" width="816" height="536" rx="26" fill="#FDF2F8" stroke="#F8C8DC" stroke-width="3"/>
+  <rect x="78" y="84" width="160" height="452" rx="22" fill="#2B2B2B"/>
+  <rect x="276" y="84" width="546" height="86" rx="22" fill="#FFFFFF"/>
+  <rect x="276" y="206" width="546" height="74" rx="18" fill="#FFFFFF"/>
+  <rect x="276" y="304" width="546" height="74" rx="18" fill="#FFFFFF"/>
+  <rect x="276" y="402" width="546" height="74" rx="18" fill="#FFFFFF"/>
+  <text x="450" y="552" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="800" fill="#2B2B2B">Add admin/CRUD screenshot</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Dragon Stone e-commerce website preview</title>
+  <desc id="desc">Stylised website mockup placeholder for the Dragon Stone e-commerce project.</desc>
+  <rect width="1200" height="760" rx="48" fill="#FFF"/>
+  <rect x="50" y="50" width="1100" height="660" rx="34" fill="#FDF2F8" stroke="#F8C8DC" stroke-width="4"/>
+  <rect x="92" y="92" width="1016" height="72" rx="24" fill="#2B2B2B"/>
+  <circle cx="133" cy="128" r="13" fill="#F8C8DC"/>
+  <circle cx="173" cy="128" r="13" fill="#D88CA6"/>
+  <circle cx="213" cy="128" r="13" fill="#C9A66B"/>
+  <rect x="752" y="112" width="90" height="32" rx="16" fill="#F8C8DC"/>
+  <rect x="862" y="112" width="90" height="32" rx="16" fill="#F8C8DC"/>
+  <rect x="972" y="112" width="90" height="32" rx="16" fill="#F8C8DC"/>
+  <rect x="92" y="206" width="444" height="382" rx="30" fill="#FFFFFF" stroke="#F8C8DC" stroke-width="3"/>
+  <text x="138" y="284" font-family="Arial, sans-serif" font-size="56" font-weight="800" fill="#2B2B2B">Dragon Stone</text>
+  <text x="138" y="334" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="#A95270">E-Commerce Website</text>
+  <rect x="138" y="388" width="322" height="20" rx="10" fill="#EFC7D8"/>
+  <rect x="138" y="426" width="260" height="20" rx="10" fill="#EFC7D8"/>
+  <rect x="138" y="492" width="168" height="54" rx="27" fill="#2B2B2B"/>
+  <text x="222" y="527" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">View project</text>
+  <rect x="584" y="206" width="236" height="178" rx="28" fill="#FFFFFF" stroke="#F8C8DC" stroke-width="3"/>
+  <rect x="852" y="206" width="236" height="178" rx="28" fill="#FFFFFF" stroke="#F8C8DC" stroke-width="3"/>
+  <rect x="584" y="410" width="236" height="178" rx="28" fill="#FFFFFF" stroke="#F8C8DC" stroke-width="3"/>
+  <rect x="852" y="410" width="236" height="178" rx="28" fill="#FFFFFF" stroke="#F8C8DC" stroke-width="3"/>
+  <circle cx="702" cy="276" r="36" fill="#D88CA6" opacity="0.8"/>
+  <circle cx="970" cy="276" r="36" fill="#C9A66B" opacity="0.7"/>
+  <circle cx="702" cy="480" r="36" fill="#F8C8DC"/>
+  <circle cx="970" cy="480" r="36" fill="#D88CA6" opacity="0.8"/>
+  <rect x="630" y="330" width="144" height="18" rx="9" fill="#EFC7D8"/>
+  <rect x="900" y="330" width="144" height="18" rx="9" fill="#EFC7D8"/>
+  <rect x="630" y="534" width="144" height="18" rx="9" fill="#EFC7D8"/>
+  <rect x="900" y="534" width="144" height="18" rx="9" fill="#EFC7D8"/>
+</svg>
