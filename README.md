@@ -1,6 +1,6 @@
 # Nosipho Mabuza Portfolio Website
 
-This is a static portfolio website. It does not need XAMPP because it uses HTML, CSS, and JavaScript only.
+This is a static portfolio website. It uses HTML, CSS, and JavaScript only.
 
 ## How to preview
 1. Extract the ZIP file.
